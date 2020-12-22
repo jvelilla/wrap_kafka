@@ -32,10 +32,12 @@ You can download and install librdkafka using the vcpkg dependency manager:
 
 	# Install librdkafka
 	$ vcpkg install librdkafka or vcpkg install librdkafka:x64-windows
-## Status
 
 To learn more about how to install librdkafka read the following section [Kafka Installation](https://github.com/edenhill/librdkafka#installation)
 
+## Status
+
+Work in progress.
 
 
 ## Examples
